@@ -3,7 +3,7 @@ layout: post
 title:  "Introdução à programação de computadores"
 categories: [ programação, computadores, Algoritmos, PHP, HTML ]
 image: assets/images/13.jpg
-tags: [sticky]
+tags: featured
 ---
 
 Introdução à programação de computadores
@@ -14,11 +14,11 @@ Com exemplos em HTML e PHP
 
 Direitos: dc.rights	Atribuição-NãoComercial-SemDerivados 3.0 Brasil
 
-Direitos: dc.rights	http://creativecommons.org/licenses/by-nc-nd/3.0/br/
+Direitos: dc.rights	[http://creativecommons.org/licenses/by-nc-nd/3.0/br/](http://creativecommons.org/licenses/by-nc-nd/3.0/br/)
 
-Fonte completa do material: dc.identifier	http://hdl.handle.net/1884/55878
+Fonte completa do material: dc.identifier	[http://hdl.handle.net/1884/55878](http://hdl.handle.net/1884/55878)
 
-Fonte: dc.identifier.uri	http://educapes.capes.gov.br/handle/1884/55878
+Fonte: dc.identifier.uri	[http://educapes.capes.gov.br/handle/1884/55878](http://educapes.capes.gov.br/handle/1884/55878)
 
 Formato: dc.format	application/pdf
 
@@ -36,5 +36,5 @@ Título: dc.title	Introdução à programação de computadores
 
 Título: dc.title	Com exemplos em HTML e PHP
 
-url	https://educapes.capes.gov.br/handle/1884/55878?mode=full
+url	[https://educapes.capes.gov.br/handle/1884/55878?mode=full](https://educapes.capes.gov.br/handle/1884/55878?mode=full)
 

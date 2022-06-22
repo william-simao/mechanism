@@ -3,7 +3,7 @@ layout: post
 title:  "Aprenda programação gratuitamente"
 categories: [ programação, java, blocos ]
 image: assets/images/4.jpg
-tags: [sticky]
+tags: featured
 ---
 
 Nesta vídeo aula será mostrado como criar uma conta na plataforma Code.org e acessar o curso de programação Java em blocos.
@@ -16,10 +16,11 @@ Aparece nas coleções:	Vídeos
 
 Direitos: dc.rights	Attribution-NonCommercial 3.0 Brazil
 
-Fonte: dc.identifier.uri	http://educapes.capes.gov.br/handle/capes/597473
+Fonte: dc.identifier.uri	[http://educapes.capes.gov.br/handle/capes/597473](http://educapes.capes.gov.br/handle/capes/597473)
+
 Idioma: dc.language.iso	pt_BR
 
-Licença: dc.rights.uri	http://creativecommons.org/licenses/by-nc/3.0/br/
+Licença: dc.rights.uri	[http://creativecommons.org/licenses/by-nc/3.0/br/](http://creativecommons.org/licenses/by-nc/3.0/br/)
 
 Palavras-chave: dc.subject	programação, java, blocos
 
@@ -32,4 +33,4 @@ Tipo de arquivo: dc.type	aula digital
 
 Título: dc.title	Aprenda programação gratuitamente
 
-url	https://educapes.capes.gov.br/handle/capes/597473?mode=full
+url	[https://educapes.capes.gov.br/handle/capes/597473?mode=full](https://educapes.capes.gov.br/handle/capes/597473?mode=full)
