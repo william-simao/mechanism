@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Curso Básico de Programação de Computadores para Adolescentes"

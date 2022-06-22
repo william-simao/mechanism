@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Introdução à programação C++"
