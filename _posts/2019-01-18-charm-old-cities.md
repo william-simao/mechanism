@@ -9,7 +9,9 @@ tags: [sticky]
 
 Leia mais sobre os Recursos Educacionais Abertos e descubra como estamos ajudando a democratizar o ensino de programação
 
-#### Early 18th century woodcut of Bucharest
+#### Recursos Educacionais Abertos
+
+Os Recursos Educacionais Abertos - geralmente chamados de REA - são materiais voltados ao ensino, aprendizado ou a pesquisa de um determinado tema. O termo foi cunhado em uma conferência realizada pela UNESCO em 2002.
 
 The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
 
