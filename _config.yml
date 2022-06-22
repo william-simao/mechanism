@@ -34,6 +34,15 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+    william:
+      name: William
+      site: https://www.google.com/
+      avatar: /assets/images/avatar3.jpg
+      bio: "Oi! Eu sou o William."
+      email:  email@email.com
+      twitter: https://twitter.com/
+
  
 # Defaults
 defaults:
