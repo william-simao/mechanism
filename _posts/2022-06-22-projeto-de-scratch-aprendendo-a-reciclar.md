@@ -2,7 +2,7 @@
 layout: post
 title:  "Projeto de Scratch - Aprendendo a reciclar"
 categories: [ programação, Scratch, condicionais, reciclagem ]
-image: assets/images/home.jpg
+image: assets/images/13.jpg
 tags: featured
 ---
 

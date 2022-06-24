@@ -46,7 +46,7 @@ authors:
     bot:
       name: bot
       site: https://william-simao.github.io/mechanism/
-      avatar: /assets/images/avatar1.png
+      avatar: /assets/images/avatar4.jpg
       bio: "Oi! Eu sou o bot! Sempre que encontro um REA de programação eu posto aqui!."
       email:  email@email.com
       twitter: https://twitter.com/
@@ -60,7 +60,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: bot
       avatar: /assets/images/avatar1.jpg
       
   # all pages

@@ -3,7 +3,7 @@ layout: post
 title:  "Introdução à programação C++"
 author: william
 categories: [ Programação de computadores, C++  ]
-image: assets/images/2.jpg
+image: assets/images/tags.jpg
 ---
 
 

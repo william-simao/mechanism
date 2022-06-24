@@ -3,7 +3,7 @@ layout: post
 title:  "Raciocinando com o Computador"
 author: william
 categories: [ programação de computadores; resolução de problemas; crianças do ensino fundamental; projeto de extensão  ]
-image: assets/images/4.jpg
+image: assets/images/javascript.jpg
 ---
 
 

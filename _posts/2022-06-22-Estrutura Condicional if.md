@@ -3,7 +3,7 @@ layout: post
 title:  "Estrutura Condicional if"
 author: william
 categories: [ estrutura condicional, estrutura if, programação, linguagem C, estrutura de controle  ]
-image: assets/images/5.jpg
+image: assets/images/javascript.jpg
 ---
 
 Vídeo aula introdutória sobre as estruturas condicionais, especificamente, a estrutura if. A linguagem de programação utilizada foi a linguagem C.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Aprenda programação gratuitamente"
 categories: [ programação, java, blocos ]
-image: assets/images/4.jpg
+image: assets/images/html.jpg
 tags: featured
 ---
 

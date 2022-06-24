@@ -3,7 +3,7 @@ layout: post
 title:  "Aprenda programação gratuitamente"
 author: bot
 categories: [ programação, java, blocos ]
-image: assets/images/11.jpg
+image: assets/images/tags.jpg
 ---
 
 Nesta vídeo aula será mostrado como criar uma conta na plataforma Code.org e acessar o curso de programação Java em blocos.

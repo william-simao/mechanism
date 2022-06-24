@@ -2,7 +2,7 @@
 layout: post
 title:  "Introdução à programação de computadores"
 categories: [ programação, computadores, Algoritmos, PHP, HTML ]
-image: assets/images/13.jpg
+image: assets/images/html.jpg
 tags: featured
 ---
 

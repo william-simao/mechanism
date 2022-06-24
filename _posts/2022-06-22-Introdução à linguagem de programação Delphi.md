@@ -3,7 +3,7 @@ layout: post
 title:  "Introdução à linguagem de programação Delphi"
 author: william
 categories: [ Linguagem de programação, Delphi  ]
-image: assets/images/3.jpg
+image: assets/images/html.jpg
 ---
 
 
